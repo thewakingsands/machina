@@ -17,4 +17,6 @@ NpcSpawn2|0342
 ActorMove|01e5
 ActorSetPos|0323
 ActorGauge|0302
+PresetWaymark|cafe
+Waymark|cafe
 ActorDrink|cafe
